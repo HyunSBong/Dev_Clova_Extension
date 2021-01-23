@@ -1,7 +1,7 @@
 **개요**
 
-- '전등 도우미'라는 Clova extension의 API 서버 소스 코드 (Spring Boot)
-- 정식 서비스가 오픈된 것이 아니기 때문에 Interaction 모델이 필요합니다.
+- '전등 도우미'라는 Clova extension의 API 서버 소스 코드 (Spring Boot) 입니다.
+-  정식 서비스가 오픈된 것이 아니기 때문에 Interaction 모델이 필요합니다. (네이버 개발자 콘솔)
 -  api에 Request를 전송하여 리턴 값의 확인은 가능합니다.
 
 **사용법**
