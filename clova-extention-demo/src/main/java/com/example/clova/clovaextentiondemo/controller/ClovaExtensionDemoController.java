@@ -13,7 +13,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/clova")
-public class ClovaExtentionDemoController {
+public class ClovaExtensionDemoController {
 
     @ResponseBody
     @RequestMapping(value = "v1/hello", method = RequestMethod.GET, produces = "application/json")
