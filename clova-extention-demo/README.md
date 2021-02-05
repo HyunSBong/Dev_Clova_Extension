@@ -6,7 +6,7 @@
 
 **사용법**
 
-Clova platform으로부터 extention 요청에 따라 적절한 응답을 하도록 되어 있습니다. 그러나 정식 서비스 중인 extention이 아니기 때문에 클로바에서 확인은 불가합니다.
+Clova platform으로부터 extension 요청에 따라 적절한 응답을 하도록 되어 있습니다. 그러나 정식 서비스 중인 extension이 아니기 때문에 클로바에서 확인은 불가합니다.
 
 - ~~API 서버 테스팅: intelliJ 또는 Eclips에서 Run 후 localhost:8080/clova/v1/hello~~
 
