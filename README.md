@@ -7,4 +7,6 @@
 - 프로젝트에 따라 상이
 - clova-extention-demo
   - README.md 참조
+- myclova-demo
+  - README.md 참조  
 
