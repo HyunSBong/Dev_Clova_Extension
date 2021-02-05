@@ -1,4 +1,4 @@
-# Naver Clova Custom Extention Development Repository
+# Naver Clova Custom Extension Development Repository
 **개요**
 
 - Clova extension의 REST API 서버 소스 코드 (Spring Boot, nodeJS)
